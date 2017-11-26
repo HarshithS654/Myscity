@@ -1,0 +1,35 @@
+.header{
+    background-image: url(../images/header.gif);
+    background-repeat: repeat;
+    color:white;
+    text-shadow: white 0.3em 0.5em 1em;
+}
+
+.footer{
+	bottom: auto;
+	height: auto;
+	background-color: rgb(200,200,200);
+	border-top: 5px solid rgb(107, 107, 71);
+}
+
+.thumbnail{
+	border: 3px solid rgb(107, 107, 71);
+	border-radius: 20px;
+	min-height: 325px;
+}
+
+.img-fluid{
+	max-height: 150px;
+}
+
+.title{
+	color: blue;
+	text-decoration: underline;
+    text-decoration-color: blue;
+	font-weight: bold;
+}	
+
+.cartbtn{
+	color: white;
+	font-weight: bold;
+}
